@@ -1,0 +1,1040 @@
+<map>
+	<entry>
+	              <string>AnonymousSMRUser</string>
+                  <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>abc@cognizant.com</email>
+                     <password>password12</password>
+                     <accountNumber>600073481</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>              
+                     <mpan>1900006427034</mpan>
+                     <mprn>3398269310</mprn>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+	
+	<entry>
+		<string>SmrLoggedInJourney</string>
+		<SMRAccountDetails>
+			<title>Mr</title>
+			<firstName>first</firstName>
+			<lastName>last</lastName>
+			<email>ohmkumar_80@hotmail.com</email>
+			<password>password12</password>
+			<accountNumber>600297717</accountNumber>
+			<accountType>Gas</accountType>
+			<afterSubmitMeterRead></afterSubmitMeterRead>
+			<actualReadOn>02 Dec 2012</actualReadOn>
+			<previousBalance></previousBalance>
+			<lastMeterReadGas>4000</lastMeterReadGas>
+			<lastMeterReadElectricity></lastMeterReadElectricity>			
+			<meterSerialNumberGas>2391765</meterSerialNumberGas>
+			<meterSerialNumberElectricity></meterSerialNumberElectricity>			
+			<mpan>60843806</mpan>
+			<mprn>60843806</mprn>
+		</SMRAccountDetails>
+	</entry>
+	<entry>
+		<string>SmrWith3Meters</string>
+		<SMRAccountDetails>
+			<title>Mr</title>
+			<firstName>first</firstName>
+			<lastName>last</lastName>
+			<email>ohmkumar_80@hotmail.com</email>
+			<password>password12</password>
+			<accountNumber>600297717</accountNumber>
+			<accountType>Gas</accountType>
+			<afterSubmitMeterRead></afterSubmitMeterRead>
+			<actualReadOn>02 Dec 2012</actualReadOn>
+			<previousBalance></previousBalance>
+			<lastMeterReadGas>4000</lastMeterReadGas>
+			<lastMeterReadElectricity></lastMeterReadElectricity>			
+			<meterSerialNumberGas>2391765</meterSerialNumberGas>
+			<meterSerialNumberElectricity></meterSerialNumberElectricity>			
+			<mpan>60843806</mpan>
+			<mprn>60843806</mprn>
+		</SMRAccountDetails>
+	</entry>
+	<entry>
+		<string>ErrorMeterRead</string>
+		<SMRAccountDetails>
+			<title>Mr</title>
+			<firstName>first</firstName>
+			<lastName>last</lastName>
+			<email>ohmkumar_80@hotmail.com</email>
+			<password>password12</password>
+			<accountNumber>600297688</accountNumber>
+			<accountType>Gas</accountType>
+			<afterSubmitMeterRead>27514</afterSubmitMeterRead>
+			<actualReadOn>02 Dec 2012</actualReadOn>
+			<previousBalance></previousBalance>
+			<lastMeterReadGas>4000</lastMeterReadGas>
+			<lastMeterReadElectricity></lastMeterReadElectricity>			
+			<meterSerialNumberGas>2391765</meterSerialNumberGas>
+			<meterSerialNumberElectricity></meterSerialNumberElectricity>			
+			<mpan>60905005</mpan>
+			<mprn>60905005</mprn>
+		</SMRAccountDetails>
+	</entry>
+	<entry>
+		<string>GlobalSmrMoreThan3Meters</string>
+		<SMRAccountDetails>
+			<title>Mr</title>
+			<firstName>first</firstName>
+			<lastName>last</lastName>
+			<email>3device2@cognizant.com</email>
+			<password>password12</password>
+			<accountNumber>600370058</accountNumber>
+			<accountType>Gas</accountType>
+			<afterSubmitMeterRead>27514</afterSubmitMeterRead>
+			<actualReadOn>02 Dec 2012</actualReadOn>
+			<previousBalance></previousBalance>
+			<lastMeterReadGas>4000</lastMeterReadGas>
+			<lastMeterReadElectricity></lastMeterReadElectricity>			
+			<meterSerialNumberGas>2391765</meterSerialNumberGas>
+			<meterSerialNumberElectricity></meterSerialNumberElectricity>			
+			<mpan>4222835503</mpan>
+			<mprn>4222835503</mprn>
+		</SMRAccountDetails>
+	</entry>
+	<entry>
+		<string>ThankYouSurvey</string>
+		<SMRAccountDetails>
+			<title>Mr</title>
+			<firstName>first</firstName>
+			<lastName>last</lastName>
+			<email>messagecentre@subuser25.com</email>
+			<password>password12</password>
+			<accountNumber>600297778</accountNumber>
+			<accountType>Gas</accountType>
+			<afterSubmitMeterRead>27514</afterSubmitMeterRead>
+			<actualReadOn>02 Dec 2012</actualReadOn>
+			<previousBalance></previousBalance>
+			<lastMeterReadGas>4000</lastMeterReadGas>
+			<lastMeterReadElectricity></lastMeterReadElectricity>			
+			<meterSerialNumberGas>2391765</meterSerialNumberGas>
+			<meterSerialNumberElectricity></meterSerialNumberElectricity>			
+			<mpan>9093611005</mpan>
+			<mprn>9093611005</mprn>
+			<feedbackoption>2</feedbackoption>
+            <feedbacktext>Option has been selected at :</feedbacktext>   
+		</SMRAccountDetails>
+	</entry>
+	<entry>
+		<string>SearchBill</string>
+		<SMRAccountDetails>			
+			<email>rajkumar.j@cognizant.com</email>
+			<password>password12</password>
+			<accountNumber>600961878</accountNumber>
+			<billNumber>191371633</billNumber>			
+			<mpan></mpan>
+			<mprn></mprn>
+			<feedbackoption>1</feedbackoption>
+            <feedbacktext>Option has been selected at :</feedbacktext>   
+		</SMRAccountDetails>
+	</entry>
+<entry>
+              <string>AnonymousSMRUser1</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>saranya.swaminathan2@cognizant.com</email>
+                     <password>password12</password>
+                     <accountNumber>600073481</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>              
+                     <mpan>1900006427034</mpan>
+                                        
+                     <mprn>3398269310</mprn>
+                     <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       
+       
+       <entry>
+              <string>AnonymousSMRUser</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>abc@cognizant.com</email>
+                     <password>password12</password>
+                     <accountNumber>601268678</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>0069392</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>              
+                     <mpan>1900006427034</mpan>
+                                        
+                     <mprn>3305767907</mprn>
+                     <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       
+     <!--  BP2 Test Data  Xml -->
+    
+    <!--  Anonymous SMR Electricity for Single Meter User -->
+     
+         <entry>
+              <string>AnonymousSMRElectricityUserforsingleMeter</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>anonymouselec@cognizant.com</email>
+                     <password>password12</password>
+                     <accountNumber>12345678</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>DD06K90006</meterSerialNumberGas>
+                     <meterSerialNumberElectricity>DD06K90006</meterSerialNumberElectricity>              
+                      <mpan>2324461178417</mpan>                  
+                     <mprn>3305767907</mprn>
+                     <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       
+        <!--  Anonymous SMR Gas for Single Meter User -->
+        
+       <entry>
+              <string>AnonymousSMRGas</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>test</firstName>
+                     <lastName>last</lastName>
+                     <email>test@bgbgb123456.com</email>
+                     <password>password12</password>
+                     <accountNumber>600782179</accountNumber>
+                     <accountType>Gas</accountType>
+                     <meterSerialNumber>8013665</meterSerialNumber>                            
+                     <actualReadOn>25 Jul 2012</actualReadOn>        
+                     <mprn>60197902</mprn>                     
+                     <sitePostcode></sitePostcode>                                                         
+                     <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       <entry>
+              <string>AnonymousSMRGasCRdata</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>nnnffo@gmail.com</email>
+                     <password>password12</password>
+                     <accountNumber>600892545</accountNumber>
+                     <accountType>Gas</accountType>
+                     <meterSerialNumber>8013665</meterSerialNumber>                            
+                     <actualReadOn>25 Jul 2012</actualReadOn>        
+                     <mprn>600770205</mprn>                     
+                     <sitePostcode>PO1 2NR</sitePostcode>                                                         
+                     <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       <entry>
+              <string>AnonymousSMRElecCRdata</string>
+              <SMRAccountDetails>
+                    <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>sumisha.kc@cognizant.com</email>
+                     <password>password12</password>
+                     <accountNumber>600768029</accountNumber>
+                     <accountType>Electricity</accountType>
+                     <meterSerialNumber>8013665</meterSerialNumber>                            
+                     <actualReadOn>25 Jul 2012</actualReadOn>        
+                     <mprn>60197902</mprn>                     
+                     <sitePostcode>EN3 4SA</sitePostcode>                                                         
+                     <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext> 
+              </SMRAccountDetails>
+       </entry>
+       <entry>
+              <string>Anonymousnonalertbpcp</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>mysmrtestdatad@gmail.com</email>
+                     <password>password12</password>
+                     <accountNumber>601023288</accountNumber>
+                     <accountType>Gas</accountType>
+                     <meterSerialNumber>8013665</meterSerialNumber>                            
+                     <actualReadOn>25 Jul 2012</actualReadOn>        
+                     <mprn>60197902</mprn>                     
+                     <sitePostcode>DL8 3RD</sitePostcode>                                                         
+                     <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+        <entry>
+              <string>Anonymouscollective</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>dontchangedata@gmail.com</email>
+                     <password>password12</password>
+                     <accountNumber>670000044</accountNumber>
+                     <accountType>Gas</accountType>
+                     <meterSerialNumber>8013665</meterSerialNumber>                            
+                     <actualReadOn>25 Jul 2012</actualReadOn>        
+                     <mprn>60197902</mprn>                     
+                     <sitePostcode>L4 2QR</sitePostcode>                                                         
+                     <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       <entry>
+              <string>Anonymouscollectivevalidate</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>collectiveerrortest@gmail.com</email>
+                     <password>password12</password>
+                     <accountNumber>670004011</accountNumber>
+                     <accountType>Gas</accountType>
+                     <meterSerialNumber>8013665</meterSerialNumber>                            
+                     <actualReadOn>25 Jul 2012</actualReadOn>        
+                     <mprn>60197902</mprn>                     
+                     <sitePostcode>ME10 4HE</sitePostcode>                                                         
+                     <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+         <entry>
+              <string>GloabalSMRGas</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>1meter_online@gas.com</email>
+                     <password>password12</password>
+                     <accountNumber>600545801</accountNumber>
+                     <bpnumber>2001559653</bpnumber>
+                     <accountType>Gas</accountType>
+                     <meterSerialNumberGas>121212</meterSerialNumberGas>                     
+                     <actualReadOn>25 Jul 2012</actualReadOn>        
+                     <mprn>9101782300</mprn>
+                     <sitePostcode>S44 6GA</sitePostcode>  
+                                       
+                     <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       
+          <!--  SAP SMR Electricity for Single Meter User -->
+          <entry>
+              <string>SAPSMRElectricityUserforsingleMeter</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>test</firstName>
+                     <lastName>tester</lastName>
+                     <email>sara@cog.com</email>
+                     <password>password12</password>
+                     <accountNumber>600539577</accountNumber>
+                     <bpnumber></bpnumber>
+                     <accountType></accountType>
+                     <sitePostcode>CR0 1SL</sitePostcode> 
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn></actualReadOn>
+                      <meterSerialNumberElectricity></meterSerialNumberElectricity> 
+                      <meterSerialNumber></meterSerialNumber>             
+                      <mpan></mpan>                  
+                      <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       
+       
+        <entry>
+              <string>SAPSMRGasUserforsingleMeter</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>Ren</firstName>
+                     <lastName>testerbala</lastName>
+                     <email>shoban.manohar@britishgas.co.uk</email>
+                     <password>password12</password>
+                     <accountNumber>601922280</accountNumber>
+                     <bpnumber></bpnumber>
+                     <accountType></accountType>
+                     <sitePostcode>CM8 3YP</sitePostcode> 
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn></actualReadOn>
+                      <meterSerialNumberElectricity></meterSerialNumberElectricity> 
+                      <meterSerialNumber></meterSerialNumber>             
+                      <mpan></mpan>                  
+                      <feedbackoption>1</feedbackoption>
+                <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       
+       <!--  SAP SMR Gas for Single Meter User -->
+       
+      <entry>
+              <string>SAPSMRGasUserforeMeter</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>In</lastName>
+                     <email>sapsmrgascustomer1@test.com</email>
+                     <password>password12</password>
+                     <accountNumber>600909062</accountNumber>
+                     <accountType>Gas</accountType>     
+                     <bpnumber>2001649983</bpnumber>                                                                              
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>  
+                     <meterSerialNumberGas>8013665</meterSerialNumberGas>     
+                     <meterSerialNumber>8013665</meterSerialNumber>       
+                     <mprn>60197902</mprn>
+                     <mprn1>60197902</mprn1>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       <entry>
+              <string>AnonymousSMRElectricityreadUser</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>abc@cognizant.com</email>
+                     <password>password12</password>
+                     <accountNumber>601268783</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>              
+                     <mpan>1200034133204</mpan>
+                     <mpan1>1200034133204</mpan1>
+                     <mprn>3398269310</mprn>
+                     <mprn1>2415223108</mprn1>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       
+       <entry>
+              <string>GlobalSMRUsersinglemeters</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>khaisarpasha.muhammed@centrica.com</email>
+                     <password>password12</password>
+                     <accountNumber>600548430</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>E12 5AF</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>
+					<siteAddress></siteAddress>         
+					<sitePostcode>E12 5AF</sitePostcode>
+                     <mprn>3238900808</mprn>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       
+       <entry>
+              <string>GlobalSMRUser</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>philip.janes@bgb.com</email>
+                     <password>password12</password>
+                     <accountNumber>600073481</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>              
+                     <mpan>1900006427034</mpan>
+                     <mpan1>1200034133204</mpan1>
+                     <mprn>3398269310</mprn>
+                     <mprn1>2415223108</mprn1>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       <entry>
+              <string>GlobalSMRMultiDialUser</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>2nduser@elec.com</email>
+                     <password>password12</password>
+                     <accountNumber>600548491</accountNumber>
+                     <accountType>Gas</accountType>                                        
+                     <lastMeterReadGas>135736</lastMeterReadGas>                    
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>              
+                     <mpan>1100015588664</mpan>
+                     <mpan1>1100015588664</mpan1>                  
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       
+	<entry>
+              <string>GlobalSMRUsersinglemeter</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>1metermob@gas.com</email>
+                     <password>password12</password>
+                     <accountNumber>600544955</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>9101782300</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>              
+                     <mprn>3238900808</mprn>
+                     <mprn1>3238900808</mprn1>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+       </entry>
+       
+       <entry>
+              <string>GlobalSMRCollectiveElecUser</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>quarcollective@elec.com</email>
+                     <password>password12</password>
+                     <accountNumber>601269348</accountNumber>
+                     <accountType>Elec</accountType>                     
+              </SMRAccountDetails>
+       </entry>
+       
+       <entry>
+              <string>GlobalSMRUsersingleMeter</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>2nduser@elec.com</email>
+                     <password>password12</password>
+                     <accountNumber>600548491</accountNumber>
+                     <accountType>Elec</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>                                  
+                     <mpan>222222221100015588664</mpan>                    
+                     <sitePostcode>NN11 3DP</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+              
+              <entry>
+              <string>GlobalSMRUserMultiMeter1</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>singlemeter@gas.com</email>
+                     <password>password12</password>
+                     <accountNumber>600538237</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>                                                        
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>                                 
+                     <mprn>9157253008</mprn>
+                     <mprn1>49538902</mprn1>
+                     <sitePostcode>CT10 2PP</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+              
+             <entry>
+              <string>GlobalSMRMultiDialMeter11</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>setupdata6@bgdigitaltest.com</email>
+                     <password>password12</password>
+                     <accountNumber>600506560</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>                                                        
+                     <meterSerialNumberGas></meterSerialNumberGas>                                 
+                     <mprn></mprn>
+                     <mprn1></mprn1>
+                     <sitePostcode></sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+              
+              <entry>
+              <string>GlobalSMRMultiDialMet</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>four@rp3.com</email>
+                     <password>password12</password>
+                     <accountNumber>600849269</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>                                                        
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>                                 
+                     <mprn>9157253008</mprn>
+                     <mprn1>49538902</mprn1>
+                     <sitePostcode>KT18 5HF</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+               
+                <entry>
+              <string>GlobalSMRMultiDialMeter</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>saras@saras.com</email>
+                     <password>password12</password>
+                     <accountNumber>600771647</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>                                                        
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>                                 
+                     <mprn>9157253008</mprn>
+                     <mprn1>49538902</mprn1>
+                     <sitePostcode>SY3 8JR</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+              
+                    <entry>
+              <string>GlobalSMRUserMultiMeters</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>viewbill1@gas.com</email>
+                     <password>password12</password>
+                     <accountNumber>600536524</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>                                                        
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>                                 
+                     <mprn>1300674802</mprn>
+                     <mprn1>1300674802</mprn1>
+                     <sitePostcode>SY3 8JR</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+	
+	         <entry>
+              <string>GlobalSMRMultiDialMetersite</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>collectiveqas02@bgdigitaltest.com</email>
+                     <password>password12</password>
+                     <accountNumber>670066987</accountNumber>
+                     <accountType>Dual fuel</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>                                                        
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>
+                     <smraccount>600739244</smraccount>                           
+                     <mprn>9157253008</mprn>
+                     <mprn1>49538902</mprn1>
+                     <mpan>123456782300000760820</mpan>
+                     <billAddr>101 W14 9HS GB</billAddr>
+                     <sitePostcode>SS3 0PW</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+              
+                <entry>
+              <string>SmrLoggedInJourneyy</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>odb11elec@2meter.com</email>
+                     <password>password12</password>
+                     <accountNumber>600543064</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>                                                        
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>                                 
+                     <mprn>9157253008</mprn>
+                     <mprn1>49538902</mprn1>
+                     <mpan>123456781610020581971</mpan>
+                     <billAddr>18, Cop Lane, Preston, PR1 0US</billAddr>
+                     <sitePostcode>PR1 0US</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+              
+               <entry>
+              <string>SmrLoggedInJourneyymorethan15accts</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>online1_20@bgb.com</email>
+                     <password>password12</password>
+                     <accountNumber>600560357</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>                                                        
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>                                 
+                     <mprn>9157253008</mprn>
+                     <mprn1>49538902</mprn1>
+                     <mpan>123456781610020581971</mpan>
+                     <billAddr>18, Cop Lane, Preston, PR1 0US</billAddr>
+                     <sitePostcode>PR1 0US</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+              
+	   <entry>
+              <string>GlobalSMRMorethanMaximumUser</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>morethan3device@gas.com</email>
+                     <password>password12</password>
+                     <accountNumber>600486112</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>              
+                     <mprn>49538902</mprn>
+                     <mprn1>49538902</mprn1>
+                     <sitePostcode>SW1P 1HG</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+              
+              
+               <entry>
+              <string>MuMvTest</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>morethan3device@gas.com</email>
+                     <password>password12</password>
+                     <accountNumber>600486112</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>              
+                     <mprn>49538902</mprn>
+                     <mprn1>49538902</mprn1>
+                     <sitePostcode>SW1P 1HG</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+              
+               <entry>
+              <string>GlobalSMRMultiDialUser</string>
+              <SMRAccountDetails>
+                     <title>Mr</title>
+                     <firstName>first</firstName>
+                     <lastName>last</lastName>
+                     <email>superuser@new.com</email>
+                     <password>password12</password>
+                     <accountNumber>600486112</accountNumber>
+                     <accountType>Gas</accountType>
+                     <afterSubmitMeterRead></afterSubmitMeterRead>
+                     <actualReadOn>25 Jul 2012</actualReadOn>
+                     <previousBalance></previousBalance>
+                     <lastMeterReadGas>135736</lastMeterReadGas>
+                     <lastMeterReadElectricity></lastMeterReadElectricity>                
+                     <meterSerialNumberGas>02588582</meterSerialNumberGas>
+                     <meterSerialNumberElectricity></meterSerialNumberElectricity>              
+                     <mprn>49538902</mprn>
+                     <mprn1>49538902</mprn1>
+                     <sitePostcode>SW1P 1HG</sitePostcode>
+                     <feedbackoption>1</feedbackoption>
+            <feedbacktext> -:option has been selected</feedbacktext>   
+              </SMRAccountDetails>
+              </entry>
+              
+              <!-- sundar script -->
+              
+           
+	<entry>
+		<string>SmrLoggedInJourneyBill</string>
+		<SMRAccountDetails>
+			<title>Mr</title>
+			<firstName>first</firstName>
+			<lastName>last</lastName>
+			<email>collective3@3meter.com</email>
+			<password>password12</password>
+			<accountNumber>600483058</accountNumber>
+			<accountType>Gas</accountType>
+			<afterSubmitMeterRead></afterSubmitMeterRead>
+			<actualReadOn>02 Dec 2012</actualReadOn>
+			<previousBalance></previousBalance>
+			<lastMeterReadGas>4000</lastMeterReadGas>
+			<lastMeterReadElectricity></lastMeterReadElectricity>			
+			<meterSerialNumberGas>2391765</meterSerialNumberGas>
+			<meterSerialNumberElectricity></meterSerialNumberElectricity>			
+			<mpan>60843806</mpan>
+			<mprn>8817688510</mprn>
+			<billNumber></billNumber>		
+			<billAddr>49, Cowpen Road, Etal House, Blyth, NE24 5TZ</billAddr>
+		</SMRAccountDetails>
+	</entry>
+	<entry>
+		<string>SmrLoggedInJourneySite</string>
+		<SMRAccountDetails>
+			<title>Mr</title>
+			<firstName>first</firstName>
+			<lastName>last</lastName>
+			<email>tryagain8@centrica.com</email>
+			<password>password12</password>
+			<accountNumber>600531987</accountNumber>
+			<accountType>Gas</accountType>
+			<afterSubmitMeterRead></afterSubmitMeterRead>
+			<actualReadOn></actualReadOn>
+			<previousBalance></previousBalance>
+			<lastMeterReadGas></lastMeterReadGas>
+			<lastMeterReadElectricity></lastMeterReadElectricity>			
+			<meterSerialNumberGas></meterSerialNumberGas>
+			<meterSerialNumberElectricity></meterSerialNumberElectricity>			
+			<mpan></mpan>
+			<mprn></mprn>
+			<billNumber></billNumber>	
+			<siteAddr>142, Wakefield Road, Inwood Residential Home, Wakefield, WF4 5HG</siteAddr>	
+			</SMRAccountDetails>
+	</entry>
+	<entry>
+		<string>SmrLoggedInJourneyMprn1</string>
+		<SMRAccountDetails>
+			<title>Mr</title>
+			<firstName>Sddd</firstName>
+			<lastName>Sddd</lastName>
+			<email>renewalsqas02_002@bgdigitaltest.co.uk</email>
+			<password>password12</password>
+			<accountNumber>600501022</accountNumber>
+			<accountType>Gas</accountType>
+			<afterSubmitMeterRead></afterSubmitMeterRead>
+			<actualReadOn></actualReadOn>
+			<previousBalance></previousBalance>
+			<lastMeterReadGas></lastMeterReadGas>
+			<lastMeterReadElectricity></lastMeterReadElectricity>			
+			<meterSerialNumberGas></meterSerialNumberGas>
+			<meterSerialNumberElectricity></meterSerialNumberElectricity>			
+			<mprn>02323</mprn>
+	</SMRAccountDetails>
+	</entry>     
+	<entry>
+		<string>SmrLoggedInJourneySingleDial</string>
+		<SMRAccountDetails>
+			<title>Mr</title>
+			<firstName>first</firstName>
+			<lastName>last</lastName>
+			<email>1meter_online@gas.com</email>
+			<password>password12</password>
+			<accountNumber>600545801</accountNumber>
+			<accountType>Gas</accountType>
+			<afterSubmitMeterRead></afterSubmitMeterRead>
+			<actualReadOn>02 Dec 2012</actualReadOn>
+			<previousBalance></previousBalance>
+			<lastMeterReadGas>4000</lastMeterReadGas>
+			<lastMeterReadElectricity></lastMeterReadElectricity>			
+			<meterSerialNumberGas>2391765</meterSerialNumberGas>
+			<meterSerialNumberElectricity>hemasundar1.j@cognizant.com</meterSerialNumberElectricity>			
+			<mpan>60843806</mpan>
+			<mprn>8817688510</mprn>
+			<billNumber></billNumber>		
+			<billAddr>4, Berners Street, LONDON, W1T 3LE</billAddr>
+		</SMRAccountDetails>
+	</entry>
+	<entry>
+		<string>SmrLoggedInJourneyMultiDial</string>
+		<SMRAccountDetails>
+			<title>Mr</title>
+			<firstName>first</firstName>
+			<lastName>last</lastName>
+			<email>odbelec@rpb.com</email>
+			<password>password12</password>
+			<accountNumber>600529579</accountNumber>
+			<accountType>Gas</accountType>
+			<afterSubmitMeterRead></afterSubmitMeterRead>
+			<actualReadOn></actualReadOn>
+			<previousBalance></previousBalance>
+			<lastMeterReadGas></lastMeterReadGas>
+			<lastMeterReadElectricity></lastMeterReadElectricity>			
+			<meterSerialNumberGas></meterSerialNumberGas>
+			<meterSerialNumberElectricity></meterSerialNumberElectricity>			
+			<mprn></mprn>
+	</SMRAccountDetails>
+	</entry>  
+	  
+	<entry>
+		<string>MeterReadGas</string>
+		<SMRAccountDetails>			
+			<email>username20@centrica.com</email>
+			<password>password12</password>
+			<accountNumber></accountNumber>
+			<billNumber></billNumber>			
+			<mpan></mpan>
+			<mprn></mprn>
+			<feedbackoption></feedbackoption>
+            <feedbacktext></feedbacktext>   
+		</SMRAccountDetails>
+	</entry>
+		<entry>
+		<string>SubmitMeterReadodb</string>
+		<SMRAccountDetails>			
+			<email>1meter_online@gas.com</email>
+			<password>password12</password>
+			<accountNumber>600545801</accountNumber>		
+		</SMRAccountDetails>
+	</entry>
+	
+	<entry>
+		<string>ODB_Gas</string>
+		<SMRAccountDetails>			
+			<email>odb13@3meter.com</email>
+			<password>password12</password>
+			<accountNumber>600542261</accountNumber>
+			</SMRAccountDetails>
+	</entry>
+	
+	<entry>
+		<string>ODB_Elec</string>
+		<SMRAccountDetails>			
+			<email>odb3@elec.com</email>
+			<password>password12</password>
+			<accountNumber>600539938</accountNumber>
+			</SMRAccountDetails>
+	</entry>
+	
+	<entry>
+		<string>MeterReadCollectiveAndElec</string>
+		<SMRAccountDetails>			
+			<email>1meter_online@gas.com</email>
+			<password>password12</password>
+			<accountNumber>600545801</accountNumber>
+			<billNumber></billNumber>			
+			<mpan></mpan>
+			<mprn></mprn>
+			<billAddr>Yarrow Road, Poole, BH12 4QY</billAddr>			
+			<feedbackoption></feedbackoption>
+            <feedbacktext></feedbacktext>   
+		</SMRAccountDetails>
+	</entry>
+	
+	<entry>
+		<string>SMRLoggedin</string>
+		<SMRAccountDetails>			
+			<email>setupdd@gas.com</email>
+			<password>password12</password>
+			<accountNumber>600499080</accountNumber>
+			<billNumber></billNumber>			
+			<mpan></mpan>
+			<mprn></mprn>
+			<feedbackoption></feedbackoption>
+            <feedbacktext></feedbacktext>   
+		</SMRAccountDetails>
+	</entry>
+	<entry>
+		<string>SMRLoggedinn</string>
+		<SMRAccountDetails>			
+			<email>four@rp3.com</email>
+			<password>password12</password>
+			<accountNumber>600543064</accountNumber>
+			<billNumber></billNumber>			
+			<mpan></mpan>
+			<mprn></mprn>
+			<feedbackoption></feedbackoption>
+            <feedbacktext></feedbacktext>   
+		</SMRAccountDetails>
+	</entry>
+	
+	<entry>
+		<string>ViewBillFunctionalities</string>
+		<SMRAccountDetails>			
+			<email>changeme@cognizant.com</email>
+			<password>password12</password>
+			<accountNumber>600536323</accountNumber>
+			<billNumber>703058366</billNumber>			
+			<mpan></mpan>
+			<mprn>8930257904</mprn>
+			<feedbackoption>1</feedbackoption>
+            <feedbacktext>Option has been selected at :</feedbacktext>   
+		</SMRAccountDetails>
+	</entry>  
+	  
+</map>    
