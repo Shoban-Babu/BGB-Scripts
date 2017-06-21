@@ -1,0 +1,112 @@
+<map>
+<entry>
+  <string>Card1</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4942847726140541</cardNumber> 
+  <cardType>Visa</cardType> 
+  <nameOnCard>testonea</nameOnCard> 
+  <expiryMonth>11</expiryMonth> 
+  <expiryYear>2022</expiryYear> 
+  <securityCode>123</securityCode> 
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card2</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4716064410393741</cardNumber> 
+  <cardType>Visa</cardType> 
+  <nameOnCard>testtwob</nameOnCard> 
+  <expiryMonth>7</expiryMonth> 
+  <expiryYear>2022</expiryYear> 
+  <securityCode>123</securityCode> 
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card3</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4929003265458079</cardNumber> 
+  <cardType>Visa</cardType> 
+  <nameOnCard>testthreec</nameOnCard> 
+  <expiryMonth>8</expiryMonth> 
+  <expiryYear>2023</expiryYear>
+  <securityCode>123</securityCode>  
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card4</string> 
+ <MakeAPaymentCardDetails>
+  <cardNumber>5437893972434237</cardNumber> 
+  <cardType>Visa</cardType> 
+  <nameOnCard>testfourd</nameOnCard> 
+  <expiryMonth>5</expiryMonth> 
+  <expiryYear>2021</expiryYear> 
+  <securityCode>123</securityCode>
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card5</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>5328401885539324</cardNumber> 
+  <cardType>Visa</cardType> 
+  <nameOnCard>testfivee</nameOnCard> 
+  <expiryMonth>9</expiryMonth> 
+  <expiryYear>2023</expiryYear> 
+  <securityCode>123</securityCode> 
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card6</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4929428781445484</cardNumber> 
+  <cardType>Visa</cardType> 
+  <nameOnCard>testsix</nameOnCard> 
+  <expiryMonth>8</expiryMonth> 
+  <expiryYear>2022</expiryYear> 
+  <securityCode>123</securityCode> 
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card7</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4024007174355346</cardNumber> 
+  <cardType>Visa</cardType> 
+  <nameOnCard>testseven</nameOnCard> 
+  <expiryMonth>9</expiryMonth> 
+  <expiryYear>2022</expiryYear> 
+  <securityCode>123</securityCode> 
+  </MakeAPaymentCardDetails>
+</entry>
+<entry>
+  <string>Card8</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4532088317188435</cardNumber> 
+  <cardType>Visa</cardType> 
+  <nameOnCard>testeight</nameOnCard> 
+  <expiryMonth>8</expiryMonth> 
+  <expiryYear>2020</expiryYear> 
+  <securityCode>123</securityCode>
+  </MakeAPaymentCardDetails>
+</entry>
+  <entry>
+  <string>Card9</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4556232168323904</cardNumber> 
+  <cardType>Visa Credit Card</cardType> 
+  <nameOnCard>testnine</nameOnCard> 
+  <expiryMonth>9</expiryMonth> 
+  <expiryYear>2023</expiryYear> 
+  <securityCode>419</securityCode>
+  </MakeAPaymentCardDetails>
+</entry>
+  <entry>
+  <string>Card10</string> 
+  <MakeAPaymentCardDetails>
+  <cardNumber>4556545499678526</cardNumber> 
+  <cardType>Visa Credit Card</cardType> 
+  <nameOnCard>testten</nameOnCard> 
+  <expiryMonth>1</expiryMonth> 
+  <expiryYear>2022</expiryYear> 
+  <securityCode>420</securityCode>
+  </MakeAPaymentCardDetails>
+</entry>
+</map>
